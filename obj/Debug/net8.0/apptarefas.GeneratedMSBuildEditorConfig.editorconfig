@@ -17,67 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = apptarefas
 build_property.RootNamespace = apptarefas
-build_property.ProjectDir = C:\Users\Alunos\OneDrive\Documentos\Mily2025\apptarefas\
+build_property.ProjectDir = C:\Users\Alunos\OneDrive\Documentos\Mily2025\apptarefas\app-tarefas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Alunos\OneDrive\Documentos\Mily2025\apptarefas
+build_property.MSBuildProjectDirectory = C:\Users\Alunos\OneDrive\Documentos\Mily2025\apptarefas\app-tarefas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Home/Index.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Home/Privacy.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Shared/Error.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Tipo/Create.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tarefas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tarefas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tarefas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tarefas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tarefas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tipo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Tipo/Delete.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tipo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Tipo/Details.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tipo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Tipo/Edit.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tipo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Tipo/Index.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Tipo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/_ViewImports.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/_ViewStart.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/Views/Shared/_Layout.cshtml]
+[C:/Users/Alunos/OneDrive/Documentos/Mily2025/apptarefas/app-tarefas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sol9atz0pd

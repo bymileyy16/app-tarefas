@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\apptarefas.csproj": {}
+    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\app-tarefas\\apptarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\apptarefas.csproj": {
+    "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\app-tarefas\\apptarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\apptarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\app-tarefas\\apptarefas.csproj",
         "projectName": "apptarefas",
-        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\apptarefas.csproj",
+        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\app-tarefas\\apptarefas.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\apptarefas\\app-tarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
